@@ -1,6 +1,6 @@
 html   {
         overflow: auto;
-        font-family: sans-serif;
+        font-family: calibri;
 }
 
 html,
@@ -47,3 +47,4 @@ a:hover{
         color: #ff0000;
         text-shadow: 1px 1px #ccc;
 }
+
